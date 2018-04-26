@@ -2,6 +2,6 @@ class cat
    attr_accessor :name 
 
   def initialize
-    puts "meow"
+    puts "meow!"
   end
 end
