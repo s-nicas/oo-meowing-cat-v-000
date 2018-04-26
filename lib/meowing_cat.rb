@@ -1,5 +1,5 @@
-class cat
-   attr_accessor :name 
+class Cat
+   attr_accessor :name
 
   def initialize
     puts "meow!"
